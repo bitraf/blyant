@@ -1,5 +1,5 @@
 # Instruksjoner
-Komponentene faller lettere ut hvis du lodder de høye komponentene først. Det er derfor lurt å starte med de laveste komponentene.
+Komponentene faller lettere ut hvis du lodder de høye komponentene først. Det er derfor lurt å starte med de laveste komponentene. 
 
 Start med de to motstandene (R1 og R2). Bøy bena ca 90 grader så de passer inn i hullene og skyv motstanden helt ned mot kortet så bena stikker langt ut på baksiden. Snu kortet og bøy litt bena ut.
 
