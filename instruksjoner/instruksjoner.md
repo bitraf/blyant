@@ -51,7 +51,7 @@ Loddeveken suger til seg overfødig loddetinn når du varmer den opp. Noen gange
 
 Nå kan vi putte chippen forsiktig inn i holderen sin. Hold gjerne den ene siden med ben ned mot bordet mens du trykker forsiktig ned. På denne måten blir alle bena trykket like mye inn.
 
-På toppen av chippen er det en liten prikk. Denne forteller oss hvor pinne 1 er og denne skal peke vekk fra høyttaleren slik som på bildet. Sjekk at din linger på bildet
+På toppen av chippen er det en liten prikk. Denne forteller oss hvor pinne 1 er og denne skal peke vekk fra høyttaleren slik som på bildet. Sjekk at din ligner på bildet
 
 ![](Drawdio_10_chip.png)
 
