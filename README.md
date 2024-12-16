@@ -1,7 +1,7 @@
 # Bitraf's musikalske blyant
 Et elektronikk byggesett for å lære seg å lodde, som du også kan ha masse morro med. Settet er laget til [Bitraf's Crowdfunding kampanje i 2021](https://www.spleis.no/project/175973). Om du vil ha et sett nå etter kampanjen, kan du besøke Bitraf i Brenneriveien 9 og kjøpe ditt eget sett i Bitmart.
 
-Byggesettet er basert på Drawdio og alle filene redistribueres her under samme lisens (CC BY-SA 3.0). Bitraf's version was made by [jenschr](https://github.com/jenschr).Based on work by Jay Silver in the Lifelong Kindergarten group at the MIT Media Lab (CC BY-SA 3.0). 
+Byggesettet er basert på Drawdio og alle filene redistribueres her under samme lisens (CC BY-SA 3.0). Bitraf's version was made by [jenschr](https://github.com/jenschr). Based on work by Jay Silver in the Lifelong Kindergarten group at the MIT Media Lab (CC BY-SA 3.0). 
 
 ## Instruksjoner
 For å bygge settet trenger du en loddebolt, en avbiter-tang og litt loddetinn. Om du ikke har dette kan du stikke innom Bitraf og låne utstyr hos oss. Følg [instruksjonene du finner her](instruksjoner/instruksjoner.md), så kommer du i mål.
